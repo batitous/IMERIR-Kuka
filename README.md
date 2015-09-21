@@ -1,13 +1,6 @@
 # IMERIR Kuka
 
-Le dépôt contient les ressources pour le projet IMERIR 2016.
-
-
-
-
-## Structure
-
-
+Le dépôt contient le projet de base pour le projet IMERIR 2015.
 
 
 ## License
